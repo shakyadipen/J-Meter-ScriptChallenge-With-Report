@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testResults version="1.2">
+<httpSample t="842" it="0" lt="841" ct="480" ts="1685982523396" s="true" lb="/LoadRunner_Correlation_Challenge_Exp.aspx-1" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="13298" sby="393" ng="1" na="1">
+  <java.net.URL>http://loadrunnertips.com/LoadRunner_Correlation_Challenge_Exp.aspx</java.net.URL>
+</httpSample>
+<httpSample t="291" it="0" lt="291" ct="0" ts="1685982524249" s="true" lb="/favicon.ico-3" rc="200" rm="OK" tn="Thread Group 1-1" dt="bin" by="1461" sby="351" ng="1" na="1">
+  <java.net.URL>http://loadrunnertips.com/favicon.ico</java.net.URL>
+</httpSample>
+<sample t="1133" it="67" lt="1132" ct="480" ts="1685982523337" s="true" lb="Launch" rc="200" rm="Number of samples in transaction : 2, number of failing samples : 0" tn="Thread Group 1-1" dt="" by="14759" sby="744" ng="1" na="1"/>
+<httpSample t="355" it="0" lt="354" ct="0" ts="1685982524542" s="true" lb="/LoadRunner_Correlation_Challenge_Exp.aspx-14" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="11496" sby="846" ng="1" na="1">
+  <java.net.URL>http://loadrunnertips.com/LoadRunner_Correlation_Challenge_Exp.aspx</java.net.URL>
+</httpSample>
+<sample t="355" it="3" lt="354" ct="0" ts="1685982524542" s="true" lb="Click Start" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-1" dt="" by="11496" sby="846" ng="1" na="1"/>
+<httpSample t="406" it="0" lt="405" ct="0" ts="1685982524901" s="true" lb="/LoadRunner_Correlation_Challenge_Exp.aspx-36" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="14125" sby="950" ng="1" na="1">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>http://loadrunnertips.com/LoadRunner_Correlation_Challenge_Exp.aspx</java.net.URL>
+</httpSample>
+<sample t="406" it="9" lt="405" ct="0" ts="1685982524900" s="true" lb="Enter_City_Name" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-1" dt="" by="14125" sby="950" ng="1" na="1"/>
+<httpSample t="529" it="0" lt="528" ct="0" ts="1685982525316" s="true" lb="/LoadRunner_Correlation_Challenge_Exp.aspx-58" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="10869" sby="989" ng="1" na="1">
+  <java.net.URL>http://loadrunnertips.com/LoadRunner_Correlation_Challenge_Exp.aspx</java.net.URL>
+</httpSample>
+<sample t="529" it="2" lt="528" ct="0" ts="1685982525315" s="true" lb="Enter_Number" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-1" dt="" by="10869" sby="989" ng="1" na="1"/>
+<httpSample t="1103" it="0" lt="0" ct="743" ts="1685982525848" s="true" lb="/g/collect?v=2&amp;tid=G-XQRC4QQ389&amp;gtm=45je35v0&amp;_p=313445955&amp;cid=899822427.1685618745&amp;ul=en-us&amp;sr=1280x720&amp;_eu=ABA&amp;ngs=1&amp;_s=1&amp;sid=1685618747&amp;sct=1&amp;seg=1&amp;dl=http%3A%2F%2Floadrunnertips.com%2FLoadRunner_Correlation_Challenge_Exp.aspx&amp;dr=http%3A%2F%2Floadrunnertips.com%2FLoadRunner_Correlation_Challenge_Exp.aspx&amp;dt=LoadRunner%3ACorrelation%20Challenge&amp;en=page_view&amp;_ee=1-77" rc="204" rm="No Content" tn="Thread Group 1-1" dt="text" by="432" sby="847" ng="1" na="1">
+  <java.net.URL>https://www.google-analytics.com/g/collect?v=2&amp;tid=G-XQRC4QQ389&amp;gtm=45je35v0&amp;_p=313445955&amp;cid=899822427.1685618745&amp;ul=en-us&amp;sr=1280x720&amp;_eu=ABA&amp;ngs=1&amp;_s=1&amp;sid=1685618747&amp;sct=1&amp;seg=1&amp;dl=http%3A%2F%2Floadrunnertips.com%2FLoadRunner_Correlation_Challenge_Exp.aspx&amp;dr=http%3A%2F%2Floadrunnertips.com%2FLoadRunner_Correlation_Challenge_Exp.aspx&amp;dt=LoadRunner%3ACorrelation%20Challenge&amp;en=page_view&amp;_ee=1</java.net.URL>
+</httpSample>
+<httpSample t="393" it="0" lt="392" ct="0" ts="1685982526952" s="true" lb="/LoadRunner_Correlation_Challenge_Exp.aspx-81" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="13340" sby="460" ng="1" na="1">
+  <java.net.URL>http://loadrunnertips.com/LoadRunner_Correlation_Challenge_Exp.aspx?RQM=1730587324&amp;RND=0.6137211425864013</java.net.URL>
+</httpSample>
+<sample t="1496" it="4" lt="392" ct="743" ts="1685982525846" s="true" lb="Click_Next" rc="200" rm="Number of samples in transaction : 2, number of failing samples : 0" tn="Thread Group 1-1" dt="" by="13772" sby="1307" ng="1" na="1"/>
+<sample t="3" it="0" lt="0" ct="0" ts="1685982527363" s="true" lb="Debug Sampler" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="3116" sby="0" ng="1" na="1"/>
+
+</testResults>
